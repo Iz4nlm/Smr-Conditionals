@@ -10,5 +10,7 @@ elif operacion == "-":
     print(n1 - n2)
 elif operacion == "*":
     print(n1 * n2)
-else:
+elif operacion == "/":
     print(n1 / n2)
+else:
+    "eres un pedazo de bonobo, son solo cuatro opciones"
